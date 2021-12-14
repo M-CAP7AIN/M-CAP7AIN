@@ -1,0 +1,4 @@
+- 👽 Hi, I’m @M-CAP7AIN
+- 💻 Software Engineer and Python, PHP Developer
+- 🔌 Familiar with AVR and Arduino hardware programmers
+- 🔥 Interested in learning...
