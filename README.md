@@ -1,4 +1,14 @@
 - 👽 Hi, I’m @M-CAP7AIN
-- 💻 Software Engineer and Python, PHP Developer
-- 🔌 Familiar with AVR and Arduino hardware programmers
+
+- 💻 Software Engineer [C# .Net [Core, Framework], Winform, WPF].
+  - {EmguCV ,OpenCV, Aforge, Accord, MathNet, Intel RealSense, HelixToolkit, LiveCharts, MaterialDesign, MVVM}
+- 🌐 Back-End [ASP .Net Core, Python]. [Razor Page, Web API]
+  -  {MySQL, SQL, Apache, phpMyAdmin, CPanel, DirectAdmin, VPS, JSON, gRPC, WebSocket, EntityFramework}. 
+  -  Familiar with [PHP, MySqli, PDO]
+- 🤖 AVR and Arduino programmer, working with various modules and sensors 
+  -  {Bluetooth, WiFi, Gas, Raspberry Pi, HC05, ESP82, NodeMCU, IMU, ...}. 
+- 🦄 Working with [Intel RealSense SR300, D435]
+- 🍹 Familiar with the concepts of Design Pattern and SOLID.
+- 🚀 Linux System Administrator.
+- 🌏 Familiar Network and Window server Active Directory {DNS, DHCP, GP,...}, CEH, VMware, Docker.
 - 🔥 Interested in learning...
