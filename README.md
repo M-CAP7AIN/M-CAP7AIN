@@ -1,10 +1,10 @@
-# 👽 Hi, I’m  **[M-CAP7AIN](https://ictcaptain.blog.ir/)** [ICT Engineer]
+# 👽 Hi, I’m  **[M-CAP7AIN](https://ictcaptain.blog.ir/)**
 
 - 💻 **Software Engineer** [C# .Net (Core, Framework), Winform, WPF]
   - {EmguCV ,OpenCV, Aforge, Accord, MathNet, Intel RealSense, HelixToolkit, LiveCharts, ScottPlot, MaterialDesign, MVVM, MultiTasking}
   
 - 🌐 **Back-End** [ASP .Net Core, Python]
-  - {Razor Page, Web API}
+  -  {Web API}
   -  {Apache, IIS, phpMyAdmin, cPanel, DirectAdmin, plesk, VPS, JSON, gRPC, WebSocket, EntityFramework, Relationships}
   -  Familiar with [PHP, MySqli, PDO]
   
