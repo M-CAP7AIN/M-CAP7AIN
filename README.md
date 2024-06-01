@@ -1,12 +1,11 @@
 # 👽 Hi, I’m  **[M-CAP7AIN](https://ictcaptain.blog.ir/)**
 
 - 💻 **Software Engineer** [C# .Net (Core, Framework), Winform, WPF]
-  - {EmguCV ,OpenCV, Aforge, Accord, MathNet, Intel RealSense, HelixToolkit, LiveCharts, ScottPlot, MaterialDesign, MVVM, MultiTasking}
+  - {EmguCV ,OpenCV, Aforge, Accord, MathNet, Intel RealSense, HelixToolkit, LiveCharts, ScottPlot, MaterialDesign, MVVM, MultiTasking, Socket, Serial}
   
 - 🌐 **Back-End** [ASP .Net Core, Python]
-  -  {Web API}
-  -  {Apache, IIS, phpMyAdmin, cPanel, DirectAdmin, plesk, VPS, JSON, gRPC, WebSocket, EntityFramework, Relationships}
-  -  Familiar with [PHP, MySqli, PDO]
+  -  {Web API, EF, MediatoR, AutoMapper, Clean Architecture, CQRS, JWT, Validation, GIT}
+  -  {Apache, IIS, phpMyAdmin, cPanel, DirectAdmin, plesk, VPS, JSON, WebSocket, EntityFramework, Relationships}
   
 - 📙 Work with type of **Databases**
   - {MySQL, SQL, Sqlite, mdb}
