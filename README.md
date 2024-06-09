@@ -4,7 +4,7 @@
   - {EmguCV ,OpenCV, Aforge, Accord, MathNet, Intel RealSense, HelixToolkit, LiveCharts, ScottPlot, MaterialDesign, MVVM, MultiTasking, Socket, Serial}
   
 - 🌐 **Back-End** [ASP .Net Core, Python]
-  -  {Web API, EF, MediatoR, AutoMapper, Clean Architecture, CQRS, JWT, Validation, GIT}
+  -  {Web API, EF, MediatR, AutoMapper, Clean Architecture, CQRS, JWT, Validation, GIT}
   -  {Apache, IIS, phpMyAdmin, cPanel, DirectAdmin, plesk, VPS, JSON, WebSocket, EntityFramework, Relationships}
   
 - 📙 Work with type of **Databases**
